@@ -1,0 +1,1 @@
+# Honkai: Star Rail Items - Creating items based on the game Honkai: Star Rail

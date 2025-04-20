@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: Numby
+  m_EditorClassIdentifier: 
+  deprecatedTier: 2
+  _itemTierDef: {fileID: 0}
+  nameToken: Numby
+  pickupToken: On hit advance numby
+  descriptionToken: On hit, scaling chance to add 'Numby' for 50% base damage
+  loreToken: 
+  unlockableDef: {fileID: 0}
+  pickupModelPrefab: {fileID: 155131936738572761, guid: 1b02f411d24f8a842ba29e3b159bd910, type: 3}
+  pickupIconSprite: {fileID: 0}
+  isConsumed: 0
+  hidden: 0
+  canRemove: 1
+  tags: 
+  requiredExpansion: {fileID: 11400000, guid: c6d42ab820c078b44bd4435bf503888d, type: 2}
